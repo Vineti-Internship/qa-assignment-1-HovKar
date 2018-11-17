@@ -9,9 +9,9 @@
     <th>Status</th>
   </tr>
   <tr>
-    <td rowspan="11">Check shipping calculator</td>
-    <td rowspan="8">Check response on entering valid input</td>
-    <td rowspan="11">1. Choose country<br>2. Choose type of order<br>3. Choose shipping method<br>4. Enter parameters</td>
+    <td rowspan="11" valign = "top">Check shipping calculator</td>
+    <td rowspan="8" valign = "top">Check response on entering valid input</td>
+    <td rowspan="11" valign = "top">1. Choose country<br>2. Choose type of order<br>3. Choose shipping method<br>4. Enter parameters</td>
     <td>Country: USA<br>Type of order: Online shopping<br>Shipping method: By air<br>Weight: 0.5 kg</td>
     <td>2000 AMD</td>
     <td>2000 AMD</td>
@@ -60,7 +60,7 @@
     <td>PASS</td>
   </tr>
   <tr>
-    <td rowspan="3">Check response on entering invalid input</td>
+    <td rowspan="3" valign = "top">Check response on entering invalid input</td>
     <td>Country: USA<br>Type of order: Online shopping<br>Shipping method: By air<br>Weight: My string</td>
     <td>Weight field is empty</td>
     <td>as expected</td>

@@ -6,9 +6,9 @@
   - d)    14,15,19
 ### Answer 
 **We have 3 classes.**
-  - a)Class1: Below 18
-  - b)Class2: From 18 to 21
-  - c)Class3: Above 18
-<p>The correct answer is c)22,23,24 because all values belong to the same class(Class3)
+  - a) Class1: Below 18
+  - b) Class2: From 18 to 21
+  - c) Class3: Above 18
+<p>The correct answer is c) 22,23,24 because all values belong to the same class(Class3)
   
 

@@ -9,6 +9,6 @@
   - a)Class1: Below 18
   - b)Class2: From 18 to 21
   - c)Class3: Above 18
-**The correct answer is c)22,23,24 because all values belong to the same class(Class3)**
+<p>The correct answer is c)22,23,24 because all values belong to the same class(Class3)
   
 

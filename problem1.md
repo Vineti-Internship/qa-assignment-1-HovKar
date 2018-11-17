@@ -1,6 +1,6 @@
 | Test Scenario             	|                Test Case               	| Test Steps                                                                           	| Test Data 	| Expected Result 	| Actual Result 	| Status 	|
 |---------------------------	|:--------------------------------------:	|--------------------------------------------------------------------------------------	|-----------	|-----------------	|---------------	|--------	|
-| Check shipping calculator 	| Check response on entering valid input 	| <p>1. Choose country <p>2. Choose type of order <p>3. Choose shipping method <p>4. Enter weight  	|           	|                 	|               	|        	|
+| Check shipping calculator 	| Check response on entering valid input 	| 1. Choose country <br />2. Choose type of order<br />3. Choose shipping method <br />4. Enter weight  	|           	|                 	|               	|        	|
 |                           	|                                        	|                                                                                      	|           	|                 	|               	|        	|
 |                           	|                                        	|                                                                                      	|           	|                 	|               	|        	|
 |                           	|                                        	|                                                                                      	|           	|                 	|               	|        	|

@@ -24,9 +24,9 @@
     <td>PASS</td>
   </tr>
   <tr>
-    <td>Country: USA<br>Type of order: Personal Parcel<br>Shipping method: By air<br>Weight: 4 kg</td>
-    <td>40 USD</td>
-    <td>40 USD</td>
+    <td>Country: USA<br>Type of order: Personal Parcel<br>Shipping method: By air<br>Weight: 4.75 kg</td>
+    <td>48 USD</td>
+    <td>48USD</td>
     <td>PASS</td>
   </tr>
   <tr>

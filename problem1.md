@@ -1,4 +1,13 @@
-<table>
+<table style="undefined;table-layout: fixed; width: 988px">
+<colgroup>
+<col style="width: 123px">
+<col style="width: 137px">
+<col style="width: 187px">
+<col style="width: 206px">
+<col style="width: 150px">
+<col style="width: 115px">
+<col style="width: 70px">
+</colgroup>
   <tr>
     <th>Test Scenario</th>
     <th>Test Case</th>
@@ -68,14 +77,14 @@
   </tr>
   <tr>
     <td>Country: USA<br>Type of order: Online shopping<br>Shipping method: By air<br>Weight: -1 kg</td>
-    <td>Alert invalid inputs or/and weight field is empty</td>
-    <td>weight is -1 and shipping cost is 400 AMD</td>
+    <td>Alert invalid<br>inputs or/and<br> weight<br> field is empty</td>
+    <td>weight is -1<br> and shipping<br> cost is 400<br> AMD</td>
     <td>FAIl</td>
   </tr>
   <tr>
     <td>Country: USA<br>Type of order: Online shopping<br>Shipping method: By air<br>Weight: 1+2 kg</td>
-    <td>Alert invalid inputs </td>
-    <td>weight is 1+2 and shipping cost is 400 AMD</td>
+    <td>Alert invalid<br> inputs </td>
+    <td>weight is<br> 1+2 and<br> shipping cost<br> is 400<br> AMD</td>
     <td>FAIL</td>
   </tr>
 </table>

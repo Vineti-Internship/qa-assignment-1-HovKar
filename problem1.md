@@ -1,13 +1,4 @@
-<table style="undefined;table-layout: fixed; width: 988px">
-<colgroup>
-<col style="width: 123px">
-<col style="width: 137px">
-<col style="width: 187px">
-<col style="width: 206px">
-<col style="width: 150px">
-<col style="width: 115px">
-<col style="width: 70px">
-</colgroup>
+<table>
   <tr>
     <th>Test Scenario</th>
     <th>Test Case</th>
